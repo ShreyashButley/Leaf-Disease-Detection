@@ -70,16 +70,12 @@ Each class should have its own subfolder containing respective images.
 ## 📂 Project Structure
 
 Leaf-Disease-Detection/
-├── data/ # Dataset (not included)
-├── src/
-│ ├── data.py # Preprocessing & data loaders
-│ ├── model.py # CNN model definition
-│ ├── train.py # Training script
-│ ├── evaluate.py # Model evaluation
-│ └── predict.py # Single image inference
-├── checkpoints/ # Saved models
-├── requirements.txt
-└── README.md
+├── Target/
+├── Final_Leaf_Disease_Detection (1).ipynb
+├── plant_village.csv
+├── a.jpg
+├── README.md
+
 
 
 
